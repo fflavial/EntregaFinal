@@ -1,0 +1,13 @@
+package pacote ;
+
+public class Principal extends Teste   {
+   public static void main(String[] args) {
+        int var = 10;
+        
+        //var = 5; linha de comentario teste
+        
+        if(var == 10){
+            System.out.println("Projeto de Compiladores!");
+        }
+    }
+}
